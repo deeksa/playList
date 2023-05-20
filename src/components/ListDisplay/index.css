@@ -1,0 +1,18 @@
+.container2 {
+  display: flex;
+  justify-content: space-between;
+  width: 95vw;
+}
+
+.container3 {
+  display: flex;
+
+  margin: 20px;
+}
+
+.image4 {
+  height: 10vh;
+}
+.padding1 {
+  padding-top: 18px;
+}

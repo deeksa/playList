@@ -1,0 +1,15 @@
+.image1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png');
+}
+.image2 {
+  width: 100vw;
+  height: 40vh;
+}
+
+.list1 {
+  list-style-type: none;
+}
+.container5 {
+  display: flex;
+  justify-content: space-between;
+}
